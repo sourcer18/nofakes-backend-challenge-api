@@ -8,7 +8,8 @@ In the package.json I have enabled several launch commands.
 
 **Running from Docker**
 
-
+In the package.json I have enabled the launch command.
+- Use npm run start-docker
 
 **API Documentation**
 

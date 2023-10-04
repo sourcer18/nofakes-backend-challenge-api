@@ -5,3 +5,4 @@ logs/all.log
 logs/all.log
 .env
 logs/*
+npm-debug.log
